@@ -43,13 +43,14 @@
   <ItemGroup>
     <Compile Include="Kyuu5\Emirps.cs" />
     <Compile Include="Kyuu5\GreedIsGood.cs" />
+    <Compile Include="Kyuu6\BuildPileOfCubes.cs" />
     <Compile Include="Kyuu6\GoodvsEvil.cs" />
     <Compile Include="Kyuu6\PerimeterOffSquaresInARectangle.cs" />
+    <Compile Include="Kyuu6\TriangleNumberCheck.cs" />
+    <Compile Include="Kyuu7\VasyasaAndBook.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Kyuu7\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
